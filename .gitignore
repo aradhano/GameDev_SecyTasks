@@ -78,3 +78,8 @@ crashlytics-build.properties
 /Assets/Samples/Sample Character Prefab
 /Assets/Samples/Sample Character Prefab.meta
 
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Bb]uild*/
+[Oo]bj/
